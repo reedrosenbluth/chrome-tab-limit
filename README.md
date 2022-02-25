@@ -1,6 +1,6 @@
 # Chrome Tab Limit
 
-A Chrome Extension that limits the number of open, non-pinned tabs to 20.
+A Chrome Extension that limits the number of open, non-pinned tabs to 12.
 
 ## Installation
 
